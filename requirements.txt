@@ -2,3 +2,5 @@ fastai
 torch
 torchvision
 jupyter
+voila
+ipywidgets
