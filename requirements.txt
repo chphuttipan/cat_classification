@@ -1,4 +1,5 @@
 fastai
+fastbook
 torch
 torchvision
 jupyter
